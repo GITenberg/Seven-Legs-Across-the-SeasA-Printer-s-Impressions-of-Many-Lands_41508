@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '41211'
     url: http://www.gutenberg.org/2009/agents/41211
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/41508#Seven-Legs-Across-the-SeasA-Printer-s-Impressions-of-Many-Lands
 gutenberg_issued: '2012-11-28'
 gutenberg_type: Text
 identifiers:
