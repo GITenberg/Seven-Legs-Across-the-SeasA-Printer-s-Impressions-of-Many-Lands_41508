@@ -1,0 +1,26 @@
+_repo: Seven-Legs-Across-the-SeasA-Printer-s-Impressions-of-Many-Lands_41508
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Murray, Samuel
+    birthdate: 1865
+    gutenberg_agent_id: '41211'
+    url: http://www.gutenberg.org/2009/agents/41211
+description: ''
+gutenberg_issued: '2012-11-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41508'
+  lccn: '18008300'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'G'
+- !lcsh 'Voyages and travels'
+title: 'Seven Legs Across the Seas: A Printer''s Impressions of Many Lands'
+url: http://www.gutenberg.org/ebooks/41508
